@@ -19,15 +19,20 @@
 //****************** SERIOUSLY TEST USING console.log()!!! ******************
 
 //GLOBAL VARIABLES
-var userschoice = "";
+var userschoice = $("input").val();
 var computerschoice = "";
 var winner = "";
 var choices = ["rock", "paper", "scissors"];
-
+for(var i=0; i=<arr.length; i=i+1){
+  console.log(arr[i]);
+}
 
 //FUNCTIONS
 
-$(#rock)
+
+
+
+
 
 // DOCUMENT READY FUNCTION
 
